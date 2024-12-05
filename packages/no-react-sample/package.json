@@ -1,7 +1,7 @@
 {
   "name": "no-react-sample",
-  "version": "1.0.0",
-  "main": "dist/index.js",
+  "version": "2.0.0",
+  "main": "./dist/index.js",
   "exports": {
     "./package.json": "./package.json",
     ".": {
